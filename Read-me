@@ -1,0 +1,3 @@
+This project basically takes a graphviz format .gv or .dot file 
+and does the epsilon removal and determinisation and minimisaton 
+of the automaton.
